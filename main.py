@@ -14,6 +14,10 @@ def print_hi(name):
 
 # комментарий в ветке main
 # комментарий 2 в ветке main
+# комментарий в ветке branch_one
+# комментарий 2 в ветке branch_one
+# комментарий в ветке branch_one_from_one
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
