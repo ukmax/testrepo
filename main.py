@@ -1,3 +1,7 @@
+# pylint: disable=missing-module-docstring
+# pylint: disable=missing-class-docstring
+# pylint: disable=missing-function-docstring
+
 # This is a sample Python script.
 
 # Press ⌃R to execute it or replace it with your code.
