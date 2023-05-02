@@ -12,11 +12,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
-# комментарий в ветке main
-# комментарий 2 в ветке main
-# комментарий в ветке branch_one
-# комментарий 2 в ветке branch_one
-# комментарий в ветке branch_one_from_one
+# комментарий из branch one
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
